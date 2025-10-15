@@ -11,14 +11,14 @@ Welcome to the AI Travel Agent, a Streamlit-based application powered by LangCha
   - Option to email travel details.
 
 ## Screenshots
-![Screenshot 1](images/Screenshot 1.png)  
+![Screenshot 1](images/Screenshot1.png)  
 *Initial UI with travel query input.*
 
-![Screenshot 2](images/Screenshot 2.png)  
+![Screenshot 2](images/Screenshot2.png)  
 *Sample hotel results with images.*
 
-![Screenshot 3](images/Screenshot 3.png)  
-*Email form and success message.*
+![Screenshot 3](images/Screenshot3.png)  
+*Email form.*
 
 ## Getting Started
 
