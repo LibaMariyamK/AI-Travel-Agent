@@ -69,5 +69,3 @@ Welcome to the AI Travel Agent, a Streamlit-based application powered by LangCha
 ## Contributing
 Feel free to fork this repository, submit issues, or pull requests to enhance the project.
 
-## License
-This project is under the MIT License (see LICENSE file for details).
